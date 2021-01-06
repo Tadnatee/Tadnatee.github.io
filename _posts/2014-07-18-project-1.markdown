@@ -1,7 +1,7 @@
 ---
 layout: default
 modal-id: 1
-date: 2014-07-18
+date: 2020-12-2
 img: cabin.png
 alt: image-alt
 project-date: December 2020
@@ -9,5 +9,5 @@ category: 3D Animation
 linkname: Pudding
 link: https://youtu.be/8I_y96C_i8o
 youtube-link: https://www.youtube-nocookie.com/embed/8I_y96C_i8o
-description: Use this area of the page to describe your project.
+description: My first 3D animation. The idea came from the pudding I ate the day before.
 ---
