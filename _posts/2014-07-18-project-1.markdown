@@ -4,10 +4,10 @@ modal-id: 1
 date: 2014-07-18
 img: cabin.png
 alt: image-alt
-project-date: April 2014
-category: Video
-linkname: Placeholder
-link: https://www.youtube.com/watch?v=5_8J14z1y7U
-youtube-link: https://www.youtube-nocookie.com/embed/5_8J14z1y7U
+project-date: December 2020
+category: 3D Animation
+linkname: Pudding
+link: https://youtu.be/8I_y96C_i8o
+youtube-link: https://www.youtube-nocookie.com/embed/8I_y96C_i8o
 description: Use this area of the page to describe your project.
 ---
