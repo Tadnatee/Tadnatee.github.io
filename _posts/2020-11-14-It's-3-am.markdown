@@ -9,5 +9,5 @@ category: 2D Animation/Music
 linkname: It's-2-am
 link: https://youtu.be/iA_xidFcfHk
 youtube-link: https://www.youtube-nocookie.com/embed/iA_xidFcfHk
-description: My first 3D animation. The idea came from the pudding I ate the day before.
+description: My first 2D animation. The idea came from two thrown away drawings.
 ---
