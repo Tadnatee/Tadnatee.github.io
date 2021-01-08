@@ -1,0 +1,13 @@
+---
+layout: default
+modal-id: 3
+date: 2014-07-16
+img: circus.png
+alt: image-alt
+project-date: November 2020
+category: 2D Animation/Music
+linkname: It's-2-am
+link: https://youtu.be/iA_xidFcfHk
+youtube-link: https://www.youtube-nocookie.com/embed/iA_xidFcfHk
+description: My first 3D animation. The idea came from the pudding I ate the day before.
+---
