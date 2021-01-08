@@ -1,7 +1,7 @@
 ---
 layout: default
 modal-id: 1
-date: 2020-12-2
+date: 2020-12-02
 img: cabin.png
 alt: image-alt
 project-date: December 2020
