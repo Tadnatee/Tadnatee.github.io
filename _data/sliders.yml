@@ -2,51 +2,51 @@
   bullets: false
   captions: true
   images:
-    - src: /img/sets/a.png
+    - src: /img/sets/a.jpg
       alt: a
-    - src: /img/sets/b.png
+    - src: /img/sets/b.jpg
       alt: b
-    - src: /img/sets/c.png
+    - src: /img/sets/c.jpg
       alt: c
-    - src: /img/sets/d.png
+    - src: /img/sets/d.jpg
       alt: d
-    - src: /img/sets/e.png
+    - src: /img/sets/e.jpg
       alt: e
-    - src: /img/sets/f.png
+    - src: /img/sets/f.jpg
       alt: f
-    - src: /img/sets/g.png
+    - src: /img/sets/g.jpg
       alt: g
-    - src: /img/sets/h.png
+    - src: /img/sets/h.jpg
       alt: h
-    - src: /img/sets/i.png
+    - src: /img/sets/i.jpg
       alt: i
-    - src: /img/sets/j.png
+    - src: /img/sets/j.jpg
       alt: j
-    - src: /img/sets/k.png
+    - src: /img/sets/k.jpg
       alt: k
-    - src: /img/sets/l.png
+    - src: /img/sets/l.jpg
       alt: l
-    - src: /img/sets/m.png
+    - src: /img/sets/m.jpg
       alt: m
-    - src: /img/sets/n.png
+    - src: /img/sets/n.jpg
       alt: n
-    - src: /img/sets/o.png
+    - src: /img/sets/o.jpg
       alt: o
-    - src: /img/sets/p.png
+    - src: /img/sets/p.jpg
       alt: p
-    - src: /img/sets/q.png
+    - src: /img/sets/q.jpg
       alt: q
-    - src: /img/sets/r.png
+    - src: /img/sets/r.jpg
       alt: r
-    - src: /img/sets/s.png
+    - src: /img/sets/s.jpg
       alt: s
-    - src: /img/sets/t.png
+    - src: /img/sets/t.jpg
       alt: t
-    - src: /img/sets/u.png
+    - src: /img/sets/u.jpg
       alt: u
-    - src: /img/sets/v.png
+    - src: /img/sets/v.jpg
       alt: v
-    - src: /img/sets/w.png
+    - src: /img/sets/w.jpg
       alt: w
   settings:
     height: "'auto'"
