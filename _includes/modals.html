@@ -14,7 +14,7 @@
                         <div class="modal-body">
 								<h2>{{ post.title }}</h2>
 								<hr class="star-primary">
-								{% unless post.hide-image == "yes" %}
+								{% unless post.hide-image == "true" %}
 									<img src="img/portfolio/{{ post.img }}" class="img-responsive img-centered" alt="{{ post.alt }}>
 								{% endunless %}
 								<iframe width="560" height="315" src="{{ post.youtube-link }}" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
