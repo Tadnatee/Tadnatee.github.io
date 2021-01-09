@@ -2,10 +2,13 @@
 layout: default
 modal-id: 6
 date: 2021-01-08
+img: submarine.png
+alt: image-alt
 project-date: January 2021
 category: 3D Animation
 linkname: 
 link:
 youtube-link:
 description: Some 3D renders
+draw:
 ---
