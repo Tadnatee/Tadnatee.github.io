@@ -12,13 +12,13 @@
                 <div class="row">
                     <div class="col-lg-8 col-lg-offset-2">
                         <div class="modal-body">
+							<div class="video-container">
                             <h2>{{ post.title }}</h2>
                             <hr class="star-primary">
 							<img src="img/portfolio/{{ post.img }}" class="img-responsive img-centered" alt="{{ post.alt }}>
 								<div class="video-container">
 									<iframe src="{{post.youtube-link}}" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
 									</iframe>
-								</div>
 							{% if post.description %}
                                 <p>{{ post.description }}</p>
                             {% endif %}
@@ -43,6 +43,7 @@
                                 {% endif %}
                             </ul>
                             <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
+							</div>
                         </div>
                     </div>
                 </div>

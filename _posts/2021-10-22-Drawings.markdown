@@ -2,8 +2,8 @@
 layout: default
 modal-id: 5
 date: 2021-10-22
-img: 
-alt: 
+img: safe.png
+alt: image-alt
 project-date: January 2021
 category: Drawings
 linkname: 
