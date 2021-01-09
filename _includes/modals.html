@@ -17,6 +17,9 @@
 								{% unless post.hide-image == true %}
 								<img src="img/portfolio/{{ post.img }}" class="img-responsive img-centered" alt="{{ post.alt }}">
 								{% endunless %}
+								    { % if post.show-gallery == true % }
+										{% include gallery.html % }
+									{% endif %}
 								{% if post.youtube-link %}
 								<div class="video-container">
 									<iframe src="{{post.youtube-link}}" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
