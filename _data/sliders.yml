@@ -2,10 +2,10 @@
 - selector: drawings
   captions: false
   images:
-    - src: /img/sets/a.jpg
-      alt: image one
-    - src: /img/sets/b.jpg
-      alt: image two
+    - src: /img/sets/a.png
+      alt: a
+    - src: /img/sets/b.png
+      alt: b
   settings:
     height: "'auto'"
     effect: "'fade'"
