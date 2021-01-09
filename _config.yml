@@ -59,3 +59,5 @@ defaults:
       type: "posts"
     values:
       permalink: ""
+
+iis_slider_array: []
