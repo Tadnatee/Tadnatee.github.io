@@ -18,7 +18,21 @@
 								<img src="img/portfolio/{{ post.img }}" class="img-responsive img-centered" alt="{{ post.alt }}">
 								{% endunless %}
 								{ % if post.show-gallery == true % }
-									{% include gallery.html % }
+									<div id="slide-show-wrapper">
+											<div class="gallery">
+												<div>
+													<a href="img/sets/a.png" data-lightbox="gallery" data-title="a">
+														<img src="img/sets/1.png" alt="a">
+													</a>
+												</div>
+
+												<div>
+													<a href="img/sets/b.png" data-lightbox="gallery" data-title="b">
+														<img src="img/sets/2.png" alt="b">
+													</a>
+												</div>
+											</div>
+									</div>
 								{% endif %}
 								{% if post.youtube-link %}
 								<div class="video-container">
