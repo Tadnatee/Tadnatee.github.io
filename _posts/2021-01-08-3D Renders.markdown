@@ -10,4 +10,5 @@ linkname:
 link:
 youtube-link:
 description: Some 3D renders
+hide-image: yes
 ---

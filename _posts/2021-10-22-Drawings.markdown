@@ -10,4 +10,5 @@ linkname:
 link:
 youtube-link:
 description: Some Drawings
+hide-image: yes
 ---
