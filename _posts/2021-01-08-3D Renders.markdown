@@ -5,7 +5,7 @@ date: 2021-01-08
 img: submarine.png
 alt: image-alt
 project-date: January 2021
-category: 3D Animation
+category: 3D Renders
 linkname: 
 link:
 youtube-link:
