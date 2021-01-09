@@ -2,7 +2,7 @@
 layout: default
 modal-id: 5
 date: 2021-10-22
-img: safe.png
+img: 
 alt: image-alt
 project-date: January 2021
 category: Drawings
