@@ -1,14 +1,14 @@
 - selector: slider1
-  bullets: false
+  bullets: true
   captions: true
   images:
     - src: /img/sets/a.png
       alt: a
     - src: /img/sets/b.png
-      alt:
+      alt: b
   settings:
     height: "'auto'"
-    initialHeight:
+    initialHeight: 
     maxHeight:
     interval:
     transitionDuration:
