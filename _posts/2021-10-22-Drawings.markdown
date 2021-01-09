@@ -11,4 +11,5 @@ link:
 youtube-link:
 description: Some Drawings
 hide-image: true
+show-gallery: true
 ---
