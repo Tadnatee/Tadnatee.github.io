@@ -17,10 +17,7 @@
 								{% unless post.hide-image == "yes" %}
 									<img src="img/portfolio/{{ post.img }}" class="img-responsive img-centered" alt="{{ post.alt }}>
 								{% endunless %}
-								<div class="video-container">
-								<iframe src="{{post.youtube-link}}" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
-								</iframe>
-								</div>
+								<iframe width="560" height="315" src="{{ post.youtube-link }}" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 								{% if post.description %}
 									<p>{{ post.description }}</p>
 								{% endif %}
