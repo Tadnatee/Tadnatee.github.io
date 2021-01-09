@@ -8,11 +8,11 @@
       alt: b
   settings:
     height: "'auto'"
-    initialHeight: 
-    maxHeight:
+    initialHeight: "'auto'"
+    maxHeight: 700
     interval:
     transitionDuration:
-    effect:
+    effect: "'fade'"
     disableNav:
     keyboardNav:
     previousNavSelector:
