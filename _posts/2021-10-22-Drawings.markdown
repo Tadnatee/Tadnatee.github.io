@@ -15,4 +15,5 @@ show-gallery: true
 image_sliders:
   - drawings
 ---
-{% include slider.html selector="drawings" %}
+Hello
+{% include slider.html selector="slider1" %}

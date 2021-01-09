@@ -1,11 +1,19 @@
-# example slider
-- selector: drawings
-  captions: false
+- selector: slider1
+  bullets: false
+  captions: true
   images:
     - src: /img/sets/a.png
       alt: a
     - src: /img/sets/b.png
-      alt: b
+      alt:
   settings:
     height: "'auto'"
-    effect: "'fade'"
+    initialHeight:
+    maxHeight:
+    interval:
+    transitionDuration:
+    effect:
+    disableNav:
+    keyboardNav:
+    previousNavSelector:
+    nextNavSelector:
