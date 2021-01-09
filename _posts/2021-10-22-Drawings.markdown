@@ -10,5 +10,4 @@ linkname:
 link:
 youtube-link:
 description: Some Drawings
-draw:
 ---
