@@ -6,6 +6,48 @@
       alt: a
     - src: /img/sets/b.png
       alt: b
+    - src: /img/sets/c.png
+      alt: c
+    - src: /img/sets/d.png
+      alt: d
+    - src: /img/sets/e.png
+      alt: e
+    - src: /img/sets/f.png
+      alt: f
+    - src: /img/sets/g.png
+      alt: g
+    - src: /img/sets/h.png
+      alt: h
+    - src: /img/sets/i.png
+      alt: i
+    - src: /img/sets/j.png
+      alt: j
+    - src: /img/sets/k.png
+      alt: k
+    - src: /img/sets/l.png
+      alt: l
+    - src: /img/sets/m.png
+      alt: m
+    - src: /img/sets/n.png
+      alt: n
+    - src: /img/sets/o.png
+      alt: o
+    - src: /img/sets/p.png
+      alt: p
+    - src: /img/sets/q.png
+      alt: q
+    - src: /img/sets/r.png
+      alt: r
+    - src: /img/sets/s.png
+      alt: s
+    - src: /img/sets/t.png
+      alt: t
+    - src: /img/sets/u.png
+      alt: u
+    - src: /img/sets/v.png
+      alt: v
+    - src: /img/sets/w.png
+      alt: w
   settings:
     height: "'auto'"
     initialHeight: "'auto'"
