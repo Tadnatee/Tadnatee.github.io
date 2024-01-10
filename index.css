@@ -181,7 +181,7 @@ header table {
     text-align:left;
 }
 #avatarimg {
-    width: 30%;
+    width: 10%;
     border-radius: 50%;
 }
 .social {
@@ -461,6 +461,8 @@ header table {
     padding:10vh 0px;
     text-align:center;
     font-weight:bold;
+    border-top: 4px solid rgb(255, 0, 0);
+
 }
 #footer a {
     color:rgb(255, 44, 90);
